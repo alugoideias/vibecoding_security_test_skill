@@ -57,6 +57,10 @@ Opcao A: Custom GPT
 - Envie os arquivos da pasta `references` como Knowledge.
 - Teste no Preview com prompts reais.
 
+Tambem existe um arquivo pronto com prompts completos para GPT personalizado e Google AI Studio/Gemini:
+
+- `PROMPTS_GPT_E_GEMINI.md`
+
 Opcao B: conversa normal
 - Anexe ou cole o `SKILL.md` e os arquivos de referencia relevantes.
 - Peça explicitamente: "Use estas instrucoes como playbook para revisar meu projeto".

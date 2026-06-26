@@ -1,0 +1,5 @@
+interface:
+  display_name: Documentacao e Governanca com IA
+  short_description: Organiza dominio, arquitetura, casos de uso, contexto e governanca de projetos com IA.
+  icon: book-open
+  color: '#1e3a8a'

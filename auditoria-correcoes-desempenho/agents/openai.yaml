@@ -1,0 +1,5 @@
+interface:
+  display_name: Auditoria, Correcoes e Desempenho
+  short_description: Audita codigo, banco, APIs, seguranca, performance e entrega correcoes copiaveis.
+  icon: code
+  color: '#14532d'
